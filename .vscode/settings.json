@@ -7,11 +7,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "python.analysis.typeCheckingMode": "strict",
   "python.formatting.provider": "autopep8",
-  "python.formatting.autopep8Args": [
-    "--max-line-length",
-    "120",
-    "--experimental"
-  ],
+  "python.formatting.autopep8Args": ["--max-line-length", "120", "--experimental"],
   "python.linting.pylintEnabled": true,
   "python.testing.pytestEnabled": true,
   "[html]": {
@@ -25,7 +21,8 @@
   },
   "[python]": {
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "ms-python.python"
   },
   "[typescript]": {
     "editor.formatOnSave": true,
