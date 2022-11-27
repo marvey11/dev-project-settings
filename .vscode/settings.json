@@ -5,6 +5,9 @@
   "editor.formatOnSave": false,
   "editor.formatOnPaste": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
   "prettier.useEditorConfig": true,
   "python.analysis.typeCheckingMode": "strict",
   "python.formatting.provider": "autopep8",
