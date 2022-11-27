@@ -2,7 +2,7 @@
 
 Project settings used in development projects, including settings files for IDEs.
 
-This project can be viewed as the development equivalent to the dotfiles project (which aims at setting up the Operating System).
+This project can be viewed as the development equivalent to the [dotfiles](https://github.com/marvey11/dotfiles) project (which aims at setting up the Operating System).
 
 # Current Setting
 
