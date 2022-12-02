@@ -19,6 +19,10 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "vscode.html-language-features"
   },
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
   "[json]": {
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
